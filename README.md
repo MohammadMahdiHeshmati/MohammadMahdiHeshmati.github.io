@@ -1,11 +1,11 @@
 # MohammadMahdiHeshmati.github.io
 
-1.Hi✌️
+Hi✌️
 
-2.Im Mohammad Mahdi Heshmati🧑
+Im Mohammad Mahdi Heshmati🧑
 
-3.A FrontEnd Developer💻
+A FrontEnd Developer💻
 
-4.I Love Javascript❤️
+I Love Javascript❤️
 
-5.I Love Planet🪐
+I Love Planet🪐
